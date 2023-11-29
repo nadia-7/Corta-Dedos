@@ -3,9 +3,9 @@
 #define botonOn 5
 #define botonOff 4
 
-#define tCambioGiro 500
-#define tAvancePiston 500
-#define tPausarPiston 500
+#define tCambioGiro 250
+#define tAvancePiston 700
+#define tPausarPiston 700
 
 #define tCG tCambioGiro/100
 #define tAP tAvancePiston/100
